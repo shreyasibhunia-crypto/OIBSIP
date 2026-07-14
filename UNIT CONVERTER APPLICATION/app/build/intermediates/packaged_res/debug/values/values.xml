@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="length_units">
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>Milligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="input_layout_stroke">#CCCCCC</color>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryDarkColor">#004BA0</color>
+    <color name="primaryLightColor">#63A4FF</color>
+    <color name="secondaryColor">#42A5F5</color>
+    <color name="secondaryDarkColor">#0077C2</color>
+    <color name="secondaryLightColor">#80D6FF</color>
+    <color name="successColor">#388E3C</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="tint_color">#1976D2</color>
+    <color name="white_semi_transparent">#80FFFFFF</color>
+    <string name="app_name">Unit Converter</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_swap">Swap Units</string>
+    <string name="category_label">Category</string>
+    <string name="default_formula">Select units and click Convert</string>
+    <string name="default_result">0.0</string>
+    <string name="error_empty_input">Please enter a number to convert.</string>
+    <string name="error_invalid_number">Please enter a valid numeric value.</string>
+    <string name="error_same_unit">Please choose different "From" and "To" units.</string>
+    <string name="formula_label">Conversion Formula</string>
+    <string name="from_label">From Unit</string>
+    <string name="input_hint">e.g. 10.0</string>
+    <string name="input_label">Enter Value</string>
+    <string name="result_label">Converted Value</string>
+    <string name="result_title">Result</string>
+    <string name="to_label">To Unit</string>
+    <style name="Theme.UnitConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+
+        
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="colorError">@color/errorColor</item>
+    </style>
+</resources>

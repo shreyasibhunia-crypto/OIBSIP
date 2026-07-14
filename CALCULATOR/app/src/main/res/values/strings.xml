@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num1_hint">First number (e.g. 12.5)</string>
+    <string name="num2_hint">Second number (e.g. 5)</string>
+    <string name="result_label">Result</string>
+    <string name="placeholder_result">0</string>
+    <string name="err_empty_input">Please fill in both numbers</string>
+    <string name="err_div_zero">Cannot divide by zero</string>
+    <string name="err_invalid_format">Invalid number format</string>
+</resources>

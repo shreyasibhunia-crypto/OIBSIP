@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.unitconverter.app-merged_res-31:/drawable_ic_swap.xml.flat",
+        "source": "com.example.unitconverter.app-main-33:/drawable/ic_swap.xml"
+    },
+    {
+        "merged": "com.example.unitconverter.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.unitconverter.app-main-33:/layout/activity_main.xml"
+    }
+]

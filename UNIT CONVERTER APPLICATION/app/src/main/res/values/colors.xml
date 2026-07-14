@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryLightColor">#63A4FF</color>
+    <color name="primaryDarkColor">#004BA0</color>
+    <color name="secondaryColor">#42A5F5</color>
+    <color name="secondaryLightColor">#80D6FF</color>
+    <color name="secondaryDarkColor">#0077C2</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="successColor">#388E3C</color>
+    
+    <!-- Component-specific Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="input_layout_stroke">#CCCCCC</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="tint_color">#1976D2</color>
+    
+    <!-- Light mode shades for visual depth -->
+    <color name="white_semi_transparent">#80FFFFFF</color>
+</resources>

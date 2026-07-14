@@ -67,7 +67,7 @@ Developed as part of the **Oasis Infobyte Android App Development Internship (OI
 
 | Main Screen | Timer Running | Lap Recorded |
 | :---: | :---: | :---: |
-| ![Main Screen](screenshots/main_placeholder.png) | ![Running](screenshots/running_placeholder.png) | ![Laps](screenshots/laps_placeholder.png) |
+| ![Main Screen](screenshots/start_screenshot.png) | ![Running](screenshots/running_screenshot.png) | ![Laps](screenshots/result_screenshot.png) |
 
 </details>
 

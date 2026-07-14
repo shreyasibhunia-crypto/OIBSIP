@@ -69,7 +69,7 @@ Developed as part of the **Oasis Infobyte Android App Development Internship (OI
 
 | Home Screen | Conversion Screen | Settings |
 | :---: | :---: | :---: |
-| ![Home](screenshots/home_placeholder.png) | ![Conversion](screenshots/conversion_placeholder.png) | ![Settings](screenshots/settings_placeholder.png) |
+| ![Home](screenshots/start_screenshot.png) | ![Conversion](screenshots/running_screenshot.png) | ![Settings](screenshots/result_screenshot.png) |
 
 </details>
 

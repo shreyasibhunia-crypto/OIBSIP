@@ -165,20 +165,19 @@ Contributions, suggestions, and feedback are always welcome! Feel free to open a
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+
 
 ## 🙏 Acknowledgements
 
 Special thanks to **Oasis Infobyte (OIBSIP)** for providing this Android App Development Internship opportunity. It has been a fantastic learning experience!
 
----
 
 ## 📬 Contact
 
 - **Name:** Shreyasi Bhunia
 - **GitHub:** [@shreyasibhunia-crypto](https://github.com/shreyasibhunia-crypto)
-- **LinkedIn:** [Shreyasi Bhunia](https://www.linkedin.com/in/shreyasi-bhunia-198736316?utm_source=share_via&utm_content=profile&utm_medium=member_android) *
-- **Email:** [shreyasi45bhunia@gmail.com](mailto:YOUR_EMAIL@example.com) *(Update with actual email)*
+- **LinkedIn:** [Shreyasi Bhunia](https://www.linkedin.com/in/shreyasi-bhunia-198736316?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+- **Email:** [shreyasi45bhunia@gmail.com](mailto:YOUR_EMAIL@example.com) 
 
 ---
 

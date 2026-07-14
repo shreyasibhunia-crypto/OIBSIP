@@ -177,8 +177,8 @@ Special thanks to **Oasis Infobyte (OIBSIP)** for providing this Android App Dev
 
 - **Name:** Shreyasi Bhunia
 - **GitHub:** [@shreyasibhunia-crypto](https://github.com/shreyasibhunia-crypto)
-- **LinkedIn:** [Shreyasi Bhunia](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) *(Update with actual link)*
-- **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com) *(Update with actual email)*
+- **LinkedIn:** [Shreyasi Bhunia](https://www.linkedin.com/in/shreyasi-bhunia-198736316?utm_source=share_via&utm_content=profile&utm_medium=member_android) *
+- **Email:** [shreyasi45bhunia@gmail.com](mailto:YOUR_EMAIL@example.com) *(Update with actual email)*
 
 ---
 

@@ -68,7 +68,7 @@ Developed as part of the **Oasis Infobyte Android App Development Internship (OI
 
 | Main Interface | Calculation in Progress | Final Result |
 | :---: | :---: | :---: |
-| ![Main Interface](screenshots/start_screenshot.png) | ![Calculating](screenshots/running_screenshot.png) | ![Result](screenshots/result_screenshot.png) |
+| ![Main Interface](Screenshot/START_Clculator.png) | ![Calculating](Screenshot/RUNNING_Calculator.png) | ![Result](Screenshot/RESULT_Calculator.png) |
 
 </details>
 
